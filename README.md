@@ -14,8 +14,7 @@
 1. Download dan Ekstrak file github
 2. Buka folder melalui vscode
 3. Buka terminal vscode 
-4. Ketik 'npm install axios' 
-5. Ketik 'npm install' untuk menginstall semua dependensi dari project
-6. Setelah semua dependensi terinstal, ketik pada terminal 'json-server --watch db.json --port 8000' untuk menjalankan server file json
-7. Jalankan perintah 'npm start' untuk menjalankan projectnya
-8. Project akan terbuka di browser pada alamat http://localhost:3000 secara otomatis.
+4. Ketik 'npm install' untuk menginstall semua dependensi dari project
+5. Setelah semua dependensi terinstal, ketik pada terminal 'json-server --watch db.json --port 8000' untuk menjalankan server file json
+6. Jalankan perintah 'npm start' untuk menjalankan projectnya
+7. Project akan terbuka di browser pada alamat http://localhost:3000 secara otomatis.
