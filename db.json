@@ -1,0 +1,133 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPlQvtu-ZKRbA4bYxRO2jQhzYCDDjRk79juIALP=w426-h240-k-no",
+        "name": "Javanine Resto",        
+        "rating": "4.6",
+        "category": "Asia",
+        "price_range": "$$",
+        "open_closed": true,
+        "item": {
+          "id": 1,
+          "image_item": "Makanan.jpg",
+          "menu_item": "Ayam & bebek",
+          "rating_item": "4.7",
+          "desc_item": "food"
+        }
+      },
+      {
+        "id": 2,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOZWn7uWtYgCNZw2XXFfcUqT0fO9MgazU1OW7MT=w408-h271-k-no",
+        "name": "Melati Restaurant",        
+        "rating": "4.6",
+        "category": "Padang",
+        "price_range": "$$$",
+        "open_closed": true,
+        "item": {
+          "id": 1,
+          "image_item": "Makanan.jpg",
+          "menu_item": "Bakso & soto",
+          "rating_item": "4.5",
+          "desc_item": "food"
+        }
+      },
+      {
+        "id": 3,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPXE47fRSjEteJM2h8aa0W1YrWrBhuS6vtduJAW=w408-h306-k-no",
+        "name": "Harmoni Cafe & Resto",        
+        "rating": "4.4",
+        "category": "Cafe",
+        "price_range": "$",
+        "open_closed": false,
+        "item": {
+          "id": 1,
+          "image_item": "Makanan.jpg",
+          "menu_item": "Bakmie",
+          "rating_item": "4.7",
+          "desc_item": "food"
+        }
+      },
+      {
+        "id": 4,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipN6_DuaxbzSwxC-Qrz-TfC1j9FMdgpqHsfPyjtG=w408-h306-k-no",
+        "name": "Green Leaf Hall and Restaurant",        
+        "rating": "4.3",
+        "category": "Chinese",
+        "price_range": "$",
+        "open_closed": true,
+        "item": {
+          "id": 1,
+          "image_item": "Makanan.jpg",
+          "menu_item": "Ayam & bebek",
+          "rating_item": "4.9",
+          "desc_item": "food"
+        }
+      },
+      {
+        "id": 5,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOOhDA6_cs_olfyS7-MabVJbJTgVJv77M5FOSa_=w408-h244-k-no",
+        "name": "Rumah Makan Gloria",        
+        "rating": "4.3",
+        "category": "Padang",
+        "price_range": "$",
+        "open_closed": false,
+        "item": {
+          "id": 1,
+          "image_item": "Makanan.jpg",
+          "menu_item": "Aneka nasi",
+          "rating_item": "4.7",
+          "desc_item": "food"
+        }
+      },
+      {
+        "id": 6,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMq9RhECM3YiuToNI3279vD0rZKY9uesm6f6ctd=w425-h240-k-no",
+        "name": "Batavia Resto",        
+        "rating": "4.5",
+        "category": "Seafood",
+        "price_range": "$$",
+        "open_closed": true,
+        "item": {
+          "id": 1,
+          "image_item": "Makanan.jpg",
+          "menu_item": "Nasi Bakar Ayam Taliwang",
+          "rating_item": "4.9",
+          "desc_item": "food"
+        }
+      },
+      {
+        "id": 7,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPdRBl2UBDxbjGdPK7fY_3joG0_zRhGHybY8DDH=w426-h240-k-no",
+        "name": "Rumah Makan Kertanegara",        
+        "rating": "4.4",
+        "category": "Chinese",
+        "price_range": "$$",
+        "open_closed": true,
+        "item": {
+          "id": 1,
+          "image_item": "Makanan.jpg",
+          "menu_item": "Sup Asparagus Jagung Kepiting",
+          "rating_item": "5.5",
+          "desc_item": "food"
+        }
+      },
+      {
+        "id": 8,
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPLwQTTvD7UsNvxgLhXvecXJiFfDzknaOgYBUeA=w408-h271-k-no",
+        "name": "SaigonSan Restaurant & Rooftop Terrace",        
+        "rating": "4.6",
+        "category": "Thai",
+        "price_range": "$$",
+        "open_closed": true,
+        "item": {
+          "id": 1,
+          "image_item": "Makanan.jpg",
+          "menu_item": "Aneka nasi",
+          "rating_item": "4.0",
+          "desc_item": "food"
+        }
+      }
+    ]
+    
+  }
