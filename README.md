@@ -5,6 +5,7 @@
 1. React JS versi 18.2.0
 2. React Bootstrap versi 2.7.2
 3. Bootstrap versi 5.3.0
+4. Axios versi 1.3.3
 
 ## API
 1. Json Placeholder
